@@ -16,13 +16,6 @@ This repository contains all the necessary materials for replicating the researc
 
 
 
-## Contents
-- `Data`: Folder containing datasets used in the study.
-- `Models`: Folder with the pre-trained models and fine-tuning scripts.
-- `Analysis`: Jupyter notebooks or scripts for data analysis and results reproduction.
-- `Figures`: Generated graphs and figures as seen in the paper.
-- `Documentation`: Additional documentation and details about the project.
-
 ## Getting Started
 To get started with replicating our study, please follow the steps below:
 
